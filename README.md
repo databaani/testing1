@@ -5,3 +5,5 @@ List of languages
 - Python
 - C
 - Java
+- Ruby
+- Shell
